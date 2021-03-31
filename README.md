@@ -3,6 +3,11 @@
 #Ставим права доступа
 
 $ chmod 775 -R /var/www/modx/*
+➜  / chown -R www-data:www-data /var/www/fxde.ru
+➜  / chown -R www-data:www-data /var/www/fxde.ru/
+➜  / chown -R www-data:www-data /var/www/fxde.ru/*
+➜  / chown -R www-data:www-data /var/www/fxde.ru/*
+
 
 #Нужен Php7.4
 
